@@ -1,0 +1,4 @@
+USAGE REA-Github
+rea mcp. hopper. ghidra. ida.
+Extract. Run. See readme.
+Stamp rev-v8rm9t-20261027
